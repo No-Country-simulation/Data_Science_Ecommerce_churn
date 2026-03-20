@@ -1,0 +1,15 @@
+# Ignorar datos (Datasets pesados)
+data/
+*.csv
+*.xlsx
+*.zip
+*.parquet
+
+# Ignorar entornos virtuales
+venv/
+.env
+__pycache__/
+
+# Ignorar archivos de sistema y Jupyter
+.ipynb_checkpoints
+.DS_Store
